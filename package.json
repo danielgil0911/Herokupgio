@@ -1,0 +1,28 @@
+{
+  "name": "herokupgio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgil0911/Herokupgio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgil0911/Herokupgio/issues"
+  },
+  "homepage": "https://github.com/danielgil0911/Herokupgio#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.1.3",
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "pg": "^8.7.3"
+  }
+}
